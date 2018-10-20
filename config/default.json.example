@@ -22,6 +22,6 @@
   // Channel to log the bots moderation..
   "logchannel": "492023927778967552",
   //channel that the tip message will reply in if Multi or Role tip is used.
-  "botspamchannels": ["481827740589228033"]
+  "botspamchannels": ["483996604152414220"]
   }
 }
